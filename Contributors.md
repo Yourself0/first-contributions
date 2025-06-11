@@ -36,6 +36,7 @@
 - [Devansh Gaur](https://github.com/Devaur03) will be the king of the pirates.
 - [MRRM]
 - [RusticByte](https://github.com/Davidskumar)
+- [WillyR777j](https://github.com/WillyR777j/first-contributions)
 - [Heng_Xin](https://github.com/HengXin666) 
 - [dguan]
 - [veni](https://github.com/veni2412)
@@ -58,6 +59,7 @@
 - [Gaurav](https://github.com/gauravkrsingh321) **Open Source Contribution**
 - [Tubhyam Jain](https://github.com/tubhyam14)**New Here...** 
 - [Sweta goswami] This is my first contribution hope to do more on real world projects ....
+- [Yourself] First contribution ...
 - [Wyn Mars] (https://github.com/WynMars/) Cheer up, don't give in
 - [Research Devkota] (https://github.com/itsresearch) Hello itsresearch..
 - [rafi] (https://github.com/osak3r) 
